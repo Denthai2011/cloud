@@ -1,0 +1,15 @@
+{
+    "name": "user/cloud",
+    "autoload": {
+        "psr-4": {
+            "User\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denthai2011",
+            "email": "ynloveys@gmail.com"
+        }
+    ],
+    "require": {}
+}
